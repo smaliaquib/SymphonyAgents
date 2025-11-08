@@ -1,12 +1,12 @@
-# 🎼 SymphonyAgents
+# SymphonyAgents
 
 An intelligent multi-agent orchestration system that harmonizes AI agents to work together seamlessly, creating a symphony of automated intelligence.
 
-## 📋 Overview
+## Overview
 
 SymphonyAgents is a powerful framework for building and orchestrating multiple AI agents that collaborate to solve complex tasks. Like a conductor leading an orchestra, SymphonyAgents coordinates specialized agents, each with unique capabilities, to achieve sophisticated goals through intelligent collaboration.
 
-## 🎯 Features
+## Features
 
 - **Multi-Agent Orchestration**: Coordinate multiple specialized agents working in harmony
 - **Intelligent Task Distribution**: Automatically route tasks to the most capable agents
@@ -15,7 +15,7 @@ SymphonyAgents is a powerful framework for building and orchestrating multiple A
 - **Scalable Design**: Handle complex workflows with multiple concurrent agents
 - **Real-time Coordination**: Agents communicate and synchronize in real-time
 
-## 🏗️ Architecture
+## Architecture
 
 ![Agentic Workflow](images/agentic-workflow.png)
 
@@ -27,7 +27,7 @@ The SymphonyAgents architecture consists of:
 - **State Manager**: Maintains shared context across agents
 - **Task Queue**: Manages and prioritizes agent tasks
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -45,7 +45,7 @@ cd SymphonyAgents
 pip install -r requirements.txt
 ```
 
-## 🎭 Agent Types
+## Agent Types
 
 SymphonyAgents supports various agent types:
 
@@ -61,7 +61,7 @@ SymphonyAgents supports various agent types:
 - **State Management**: Maintaining context across agents
 - **Custom Agents**: Building your own specialized agents
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -71,14 +71,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by multi-agent systems and orchestration patterns
 - Built with the power of modern AI and LLMs
 - Thanks to all contributors and the open-source community
 
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Add support for more LLM providers
 - [ ] Implement visual agent monitoring dashboard

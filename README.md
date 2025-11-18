@@ -17,7 +17,7 @@ SymphonyAgents is a powerful framework for building and orchestrating multiple A
 
 ## Architecture
 
-![Agentic Workflow](images/agentic-workflow.png)
+![Agentic Workflow](./images/agentic-workflow.png)
 
 The SymphonyAgents architecture consists of:
 

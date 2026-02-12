@@ -17,10 +17,16 @@ SymphonyAgents is a powerful framework for building and orchestrating multiple A
 
 ## Architecture
 
+### Agentic Architecture
 ![Agentic Workflow](./images/agentic-workflow.png)
 
-** This part is in Private Repo **: Request me for the whole repo code
+**This part is in Private Repo**: Request me for the whole repo code
+
+### Services Architecture
 ![Security Governance](./images/security.png)
+
+### MCP Architecture for multi task
+![MCP](./images/mcp.png)
 
 The SymphonyAgents architecture consists of:
 

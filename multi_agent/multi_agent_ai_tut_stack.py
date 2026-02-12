@@ -224,13 +224,3 @@ class MultiAgentAiTutStack(Stack):
             agent=self.supervisor_agent,
             description="Supervises and orchestrates all the other agents"
         )
-
-
-
-
-
-
-
-        # Create A FAQ Agent
-
-

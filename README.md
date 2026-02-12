@@ -1,6 +1,6 @@
 # SymphonyAgents
 
-An intelligent multi-agent orchestration system that harmonizes AI agents to work together seamlessly, creating a symphony of automated intelligence.
+An intelligent serverless multi-agent orchestration system that harmonizes AI agents to work together seamlessly, creating a symphony of automated intelligence.
 
 ## Overview
 

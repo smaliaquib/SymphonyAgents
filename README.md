@@ -19,6 +19,9 @@ SymphonyAgents is a powerful framework for building and orchestrating multiple A
 
 ![Agentic Workflow](./images/agentic-workflow.png)
 
+** This part is in Private Repo **: Request me for the whole repo code
+![Security Governance](./images/security.png)
+
 The SymphonyAgents architecture consists of:
 
 - **Conductor Agent**: Orchestrates and coordinates all other agents
